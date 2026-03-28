@@ -81,7 +81,7 @@ I'm Abdallah, Computer Science student from 🇪🇬 Egypt, focused on Data Anal
 
 <p>
   <a href="PUT_YOUR_LINKEDIN_HERE">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img alt="LinkedIn" src="www.linkedin.com/in/abdallah-ashraf-799063366?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
