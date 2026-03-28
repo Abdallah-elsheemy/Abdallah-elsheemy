@@ -35,15 +35,15 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats-git-masterrstaa.vercel.app/api?username=Abdallah-elsheemy&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-  <img height="160em" src="https://github-readme-stats-git-masterrstaa.vercel.app/api/top-langs/?username=Abdallah-elsheemy&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdallah-elsheemy&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Abdallah-elsheemy&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abdallah-elsheemy&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abdallah-elsheemy&theme=tokyonight" />
 </p>
 
 ---
