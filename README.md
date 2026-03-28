@@ -78,7 +78,7 @@
 </tr>
 
 <tr>
-  <td><a href="PUT_LINK"><b>SQL Data Warehouse</b></a></td>
+  <td><a href="https://github.com/Abdallah-elsheemy/Retail-Data-Warehouse-Project/tree/main"><b>Retail Data Warehouse</b></a></td>
   <td>Designed database schema and implemented advanced queries with data warehouse concepts.</td>
 </tr>
 
