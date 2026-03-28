@@ -40,22 +40,27 @@ I'm Abdallah, Computer Science student from 🇪🇬 Egypt, focused on Data Anal
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td><b>Diabetes Prediction (ML Project)</b></td>
-      <td>End-to-end machine learning project including data cleaning, feature engineering, model training, and evaluation.</td>
-    </tr>
-    <tr>
-      <td><b>Data Analysis Projects</b></td>
-      <td>Exploratory Data Analysis (EDA), visualization, and insights extraction using Python and BI tools.</td>
-    </tr>
-    <tr>
-      <td><b>SQL & Data Warehouse Projects</b></td>
-      <td>Database design, advanced queries, ETL processes, and data warehouse concepts implementation.</td>
-    </tr>
-    <tr>
-      <td><b>ETL & SSIS Pipelines</b></td>
-      <td>Building data pipelines using SSIS, data transformation, cleaning, and integration from multiple sources.</td>
-    </tr>
+
+<tr>
+  <td><a href="PUT_LINK"><b>Diabetes Prediction (ML)</b></a></td>
+  <td>End-to-end machine learning pipeline including data preprocessing, feature engineering, model training, and evaluation.</td>
+</tr>
+
+<tr>
+  <td><a href="PUT_LINK"><b>Sales Data Analysis</b></a></td>
+  <td>Performed exploratory data analysis and built dashboards to uncover trends, patterns, and business insights.</td>
+</tr>
+
+<tr>
+  <td><a href="PUT_LINK"><b>SQL Data Warehouse</b></a></td>
+  <td>Designed relational database schema, implemented complex queries, and applied data warehouse concepts.</td>
+</tr>
+
+<tr>
+  <td><a href="PUT_LINK"><b>SSIS ETL Pipeline</b></a></td>
+  <td>Built ETL pipelines using SSIS for data extraction, transformation, and integration from multiple sources.</td>
+</tr>
+
   </tbody>
 </table>
 
