@@ -92,6 +92,14 @@
 
 ---
 
+### 🎯 Goals
+
+- Become a Data Engineer / Data Analyst  
+- Build production-level data projects  
+- Work on real-world data systems  
+
+---
+
 ### 📫 Connect with me
 
 <p>
