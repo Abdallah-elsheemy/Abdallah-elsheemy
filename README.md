@@ -4,13 +4,14 @@
 </h1>
 
 <p>
-Welcome to my page! <br/>
-I'm Abdallah, Computer Science student from 🇪🇬 Egypt, focused on Data Analysis, Data Engineering, and Machine Learning.
-</p>
+👋 Welcome to my page! <br/>
+I'm a Computer Science student from 🇪🇬 Egypt, focused on Data Analysis, Data Engineering, and Machine Learning.
+</p>  
 
+![](https://komarev.com/ghpvc/?username=Abdallah-elsheemy&label=Profile+Views&color=blue&style=for-the-badge)
 ---
 
-### 🚀 Things I work with
+### 🚀 I work with
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
