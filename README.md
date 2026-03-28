@@ -68,7 +68,7 @@
   <tbody>
 
 <tr>
-  <td><a href="PUT_LINK"><b>Diabetes Prediction (ML)</b></a></td>
+  <td><a href="[PUT_LINK](https://github.com/Abdallah-elsheemy/Diabetes-Prediction-ML)"><b>Diabetes Prediction (ML)</b></a></td>
   <td>Built an end-to-end ML pipeline with preprocessing, feature engineering, and model evaluation.</td>
 </tr>
 
