@@ -73,7 +73,7 @@
 </tr>
 
 <tr>
-  <td><a href="PUT_LINK"><b>Sales Data Analysis</b></a></td>
+  <td><a href="https://github.com/Abdallah-elsheemy/Sales-Analytics-Project-AdventureWorks"><b>Sales Data Analysis</b></a></td>
   <td>Analyzed sales data and created dashboards to extract trends and business insights.</td>
 </tr>
 
